@@ -1,0 +1,28 @@
+﻿<puzzle>
+	<initial-values>
+<cell> <row>0</row> <col>2</col> <value>7</value> </cell>
+		<cell> <row>0</row> <col>5</col> <value>4</value> </cell>
+		<cell> <row>1</row> <col>1</col> <value>2</value> </cell>
+		<cell> <row>1</row> <col>4</col> <value>5</value> </cell>
+		<cell> <row>1</row> <col>7</col> <value>4</value> </cell>
+		<cell> <row>2</row> <col>0</col> <value>8</value> </cell>
+		<cell> <row>2</row> <col>6</col> <value>3</value> </cell>
+		<cell> <row>3</row> <col>2</col> <value>4</value> </cell>
+		<cell> <row>3</row> <col>5</col> <value>7</value> </cell>
+		<cell> <row>3</row> <col>8</col> <value>5</value> </cell>
+		<cell> <row>4</row> <col>1</col> <value>6</value> </cell>
+		<cell> <row>4</row> <col>7</col> <value>7</value> </cell>
+		<cell> <row>5</row> <col>0</col> <value>9</value> </cell>
+		<cell> <row>5</row> <col>3</col> <value>3</value> </cell>
+		<cell> <row>5</row> <col>6</col> <value>8</value> </cell>
+		<cell> <row>6</row> <col>2</col> <value>1</value> </cell>
+		<cell> <row>6</row> <col>8</col> <value>8</value> </cell>
+		<cell> <row>7</row> <col>1</col> <value>5</value> </cell>
+		<cell> <row>7</row> <col>4</col> <value>4</value> </cell>
+		<cell> <row>7</row> <col>7</col> <value>1</value> </cell>
+		<cell> <row>8</row> <col>3</col> <value>8</value> </cell>
+		<cell> <row>8</row> <col>6</col> <value>9</value> </cell>
+
+
+		</initial-values>
+</puzzle>
