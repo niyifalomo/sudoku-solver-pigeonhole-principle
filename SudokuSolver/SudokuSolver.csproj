@@ -47,18 +47,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Alphabet.cs" />
+    <Compile Include="Puzzle\Alphabet.cs" />
     <Compile Include="CommandOption.cs" />
     <Compile Include="FileWriter.cs" />
-    <Compile Include="PuzzleCell.cs" />
-    <Compile Include="Dimension.cs" />
+    <Compile Include="Puzzle\PuzzleCell.cs" />
+    <Compile Include="Puzzle\Dimension.cs" />
     <Compile Include="IPigeonHole.cs" />
     <Compile Include="Engine.cs" />
-    <Compile Include="IPuzzle.cs" />
+    <Compile Include="Puzzle\IPuzzle.cs" />
     <Compile Include="Driver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Puzzle.cs" />
-    <Compile Include="PuzzleXML.cs" />
+    <Compile Include="Puzzle\Puzzle.cs" />
+    <Compile Include="Puzzle\PuzzleXML.cs" />
     <Compile Include="Serializer.cs" />
     <Compile Include="StatusCode.cs" />
     <Compile Include="Utility.cs" />
@@ -69,7 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
-    <Content Include="sudoku_sample.xml" />
+    <Content Include="Input\sudoku_sample.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

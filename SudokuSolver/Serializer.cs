@@ -8,7 +8,6 @@ using System.Xml.Serialization;
 
 namespace SudokuSolver
 {
-    //Copied from codeproject.com
 
     public class Serializer
     {
